@@ -1,0 +1,13 @@
+C:\Workspace\App1\App1\Bin\Debug\ApplicationIcon.png
+C:\Workspace\App1\App1\Bin\Debug\Background.png
+C:\Workspace\App1\App1\Bin\Debug\AppManifest.xaml
+C:\Workspace\App1\App1\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\App1\App1\obj\Debug\App.g.i.cs
+C:\Workspace\App1\App1\obj\Debug\MainPage.g.i.cs
+C:\Workspace\App1\App1\obj\Debug\XapCacheFile.xml
+C:\Workspace\App1\App1\Bin\Debug\App1.dll
+C:\Workspace\App1\App1\Bin\Debug\App1.pdb
+C:\Workspace\App1\App1\Bin\Debug\AnimalSound.xap
+C:\Workspace\App1\App1\obj\Debug\App1.g.resources
+C:\Workspace\App1\App1\obj\Debug\App1.dll
+C:\Workspace\App1\App1\obj\Debug\App1.pdb

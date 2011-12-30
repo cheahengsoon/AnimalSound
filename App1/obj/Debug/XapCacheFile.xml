@@ -1,0 +1,16 @@
+﻿<xapCache source="C:\Workspace\App1\App1\Bin\Debug\AnimalSound.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2011-11-14 22:52:34">
+  <file source="C:\Workspace\App1\App1\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2011-11-14 22:06:35" />
+  <file source="C:\Workspace\App1\App1\Background.png" archivePath="Background.png" lastWriteTime="2011-11-14 22:48:00" />
+  <file source="C:\Workspace\App1\App1\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2011-11-14 22:47:30" />
+  <file source="C:\Workspace\App1\App1\obj\Debug\App1.dll" archivePath="App1.dll" lastWriteTime="2011-11-14 22:07:39" />
+  <file source="C:\Workspace\App1\App1\Sounds\catSound.wav" archivePath="Sounds\catSound.wav" lastWriteTime="2011-11-14 22:00:44" />
+  <file source="C:\Workspace\App1\App1\Sounds\cowSound.wav" archivePath="Sounds\cowSound.wav" lastWriteTime="2011-11-14 21:59:27" />
+  <file source="C:\Workspace\App1\App1\Sounds\dogSound.wav" archivePath="Sounds\dogSound.wav" lastWriteTime="2011-11-14 21:59:27" />
+  <file source="C:\Workspace\App1\App1\Sounds\donkeySound.wav" archivePath="Sounds\donkeySound.wav" lastWriteTime="2011-11-14 21:59:27" />
+  <file source="C:\Workspace\App1\App1\Sounds\duckSound.wav" archivePath="Sounds\duckSound.wav" lastWriteTime="2011-11-14 21:59:27" />
+  <file source="C:\Workspace\App1\App1\Sounds\elephantSound.wav" archivePath="Sounds\elephantSound.wav" lastWriteTime="2011-11-14 22:00:13" />
+  <file source="C:\Workspace\App1\App1\Sounds\horseSound.wav" archivePath="Sounds\horseSound.wav" lastWriteTime="2011-11-14 22:00:13" />
+  <file source="C:\Workspace\App1\App1\Sounds\lionSound.wav" archivePath="Sounds\lionSound.wav" lastWriteTime="2011-11-14 22:00:13" />
+  <file source="C:\Workspace\App1\App1\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2011-11-11 10:10:20" />
+  <file source="C:\Workspace\App1\App1\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2011-11-14 22:07:40" />
+</xapCache>
